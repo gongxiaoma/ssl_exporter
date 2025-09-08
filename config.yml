@@ -1,0 +1,8 @@
+certfiles:
+  - name: "mqtt_cert_file"
+    path: "/Users/gxm/Downloads/certfile/cert.pem"
+
+certdomains:
+  - name: "mqtt_cert_domain"
+    host: "mqtt.test.com"
+    port: 8883
